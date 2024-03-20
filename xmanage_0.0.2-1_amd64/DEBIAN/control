@@ -1,7 +1,0 @@
-Package: xmanage
-Version: 0.0.2
-Maintainer: Tirito6626 <admin@tirito.de>
-Depends: sudo, jq, gawk, coreutils, nano
-Architecture: amd64
-Homepage: https://xmanage.tirito.de
-Description: Multi-functional lightweight server manager with minimal dependencies 

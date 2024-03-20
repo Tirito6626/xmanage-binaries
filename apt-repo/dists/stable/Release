@@ -1,0 +1,18 @@
+Origin: XManage Repository
+Label: XManage
+Suite: stable
+Codename: stable
+Version: 0.0.2
+Architectures: amd64
+Components: main
+Description: Multi-functional lightweight server manager with minimal dependencies
+Date: Wed, 20 Mar 2024 11:26:14 +0000
+MD5Sum:
+ 667eb01a8a497006ce1695e82e0f1e71 473 main/binary-amd64/Packages
+ 906e26082db68dbc21ee0aebe425b416 362 main/binary-amd64/Packages.gz
+SHA1:
+ 1b67e080f159d9dcda2b3545462ee7c50a6e1650 473 main/binary-amd64/Packages
+ d694466088779956b93fbc21d5f46bc204523a5d 362 main/binary-amd64/Packages.gz
+SHA256:
+ 8e1a8d937d6a9738f7a4ab6b02b7983cf89638100d64c95de3003f98c3faf70b 473 main/binary-amd64/Packages
+ c17a8b5a3f89c47ac6f8ff12eaa2bcf0cc6dd5f860a154aa693177be7cc3bed5 362 main/binary-amd64/Packages.gz

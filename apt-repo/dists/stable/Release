@@ -1,18 +1,36 @@
-Origin: XManage Repository
+Origin: xmanage.ftp.sh
 Label: XManage
 Suite: stable
-Codename: stable
+Codename: xmanage
 Version: 0.0.2
 Architectures: amd64
 Components: main
 Description: Multi-functional lightweight server manager with minimal dependencies
-Date: Wed, 20 Mar 2024 11:26:14 +0000
+Date: Wed, 20 Mar 2024 13:55:55 +0000
 MD5Sum:
- 667eb01a8a497006ce1695e82e0f1e71 473 main/binary-amd64/Packages
+ b44896bd0d501ad27cda379e10a5ee70 1578 index.html
+ 6a2c2bb80500cc915b70d9b7e210885f 1452 main/index.html
+ b6f7833ac2e6a054d7cddad30f20cff8 1634 main/binary-amd64/index.html
  906e26082db68dbc21ee0aebe425b416 362 main/binary-amd64/Packages.gz
+ 667eb01a8a497006ce1695e82e0f1e71 473 main/binary-amd64/Packages
+ b9c497f11f5418f62ee97db6da201140 2448 main/binary-amd64/xmanage.public
+ b9c497f11f5418f62ee97db6da201140 2448 main/binary-amd64/keyFile
+ 312e8508415659632a59cfa221109448 5204 main/binary-amd64/xmanage.private
 SHA1:
- 1b67e080f159d9dcda2b3545462ee7c50a6e1650 473 main/binary-amd64/Packages
+ ec9a5414c1327821994b5cdbd79641549416b047 1578 index.html
+ 9d48541770e57da2e04e5d1f85a20091f6d0e9ce 1452 main/index.html
+ 70f644b57efd2c181c68943307f6190bad9fc252 1634 main/binary-amd64/index.html
  d694466088779956b93fbc21d5f46bc204523a5d 362 main/binary-amd64/Packages.gz
+ 1b67e080f159d9dcda2b3545462ee7c50a6e1650 473 main/binary-amd64/Packages
+ 42dfc499b15b6ca054edde45cd54132004ebe6fe 2448 main/binary-amd64/xmanage.public
+ 42dfc499b15b6ca054edde45cd54132004ebe6fe 2448 main/binary-amd64/keyFile
+ 439d9da3e817546c81c03e89c5b48690b3bd7b91 5204 main/binary-amd64/xmanage.private
 SHA256:
- 8e1a8d937d6a9738f7a4ab6b02b7983cf89638100d64c95de3003f98c3faf70b 473 main/binary-amd64/Packages
+ b01c3740fc00fbf0afd9053240a2c7ee99993fd691c7eb73d7ea4325c0d68b86 1578 index.html
+ 2776e1d8a7942ed1f579c542c50da82692cdf584193d7f20b6da486125764077 1452 main/index.html
+ 3fd5f4a9d5501aba85aec57bb68db808c7012f216cfdbcdeab128fd3906fd09a 1634 main/binary-amd64/index.html
  c17a8b5a3f89c47ac6f8ff12eaa2bcf0cc6dd5f860a154aa693177be7cc3bed5 362 main/binary-amd64/Packages.gz
+ 8e1a8d937d6a9738f7a4ab6b02b7983cf89638100d64c95de3003f98c3faf70b 473 main/binary-amd64/Packages
+ 4385651343677d2edeb6108209366fc185b10d3238209ce084e339fe864af42c 2448 main/binary-amd64/xmanage.public
+ 4385651343677d2edeb6108209366fc185b10d3238209ce084e339fe864af42c 2448 main/binary-amd64/keyFile
+ 44360cd560fd741c038dcbfa264e6ec1279a88465a4a4ba6f2aaa03caf2d19ec 5204 main/binary-amd64/xmanage.private

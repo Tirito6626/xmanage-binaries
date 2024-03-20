@@ -9,39 +9,42 @@ Version: 0.0.2
 Architectures: amd64
 Components: main
 Description: Multi-functional lightweight server manager with minimal dependencies
-Date: Wed, 20 Mar 2024 14:50:44 +0000
+Date: Wed, 20 Mar 2024 14:55:55 +0000
 MD5Sum:
  26e335e022c0d6fb4581cc52630b5b15 1733 index.html
- d41d8cd98f00b204e9800998ecf8427e 0 Release.gpg
+ f219a015cb7ffdb5652038bd5b832a00 683 Release.gpg
+ cd4e6c808edc2af7ac095720cfa69c15 2300 InRelease
  f3c0106991a427c96dce3ff24cada36b 1452 main/index.html
  b2b47029e6496a84f9c12e944c20a41f 1634 main/binary-amd64/index.html
- 5c61bc253699fa432ff86f04fd82639a 360 main/binary-amd64/Packages.gz
- e53e9cd177cbcaabacb723db8972fbae 473 main/binary-amd64/Packages
+ aaa60fed3f511ed97eda7f55c3190b55 362 main/binary-amd64/Packages.gz
+ 1c2388bbe8fe7568f514193a7da26e61 473 main/binary-amd64/Packages
 SHA1:
  28af31b57032d0090f3172d57d0727d0c0c9fa24 1733 index.html
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 Release.gpg
+ 077aaae61c493a7df40c3c17c8b1b66c37994ec7 683 Release.gpg
+ 81aa1c30366e0ef17692c507242284ad0506b19a 2300 InRelease
  da5a397ff2382b5c7ef2c7a228c841f3fb718146 1452 main/index.html
  b2f6f3cd40598a68f9df315af1ee5dea6ce78ba1 1634 main/binary-amd64/index.html
- 6f1a0180bef96cf1a569e0b9f573a69c84415281 360 main/binary-amd64/Packages.gz
- cb123480ecbc1b6b2f82e14d074677f07567d331 473 main/binary-amd64/Packages
+ fe3b4ec683dd131eeeea77173734d29473b6aca6 362 main/binary-amd64/Packages.gz
+ e5c85ebf8d7dc4191af71e77793fdaa092e0abc6 473 main/binary-amd64/Packages
 SHA256:
  f8862a980a7c2020684b431039c9c13ead3cc6ca30e4f71054090bf1084ea292 1733 index.html
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 Release.gpg
+ 07b97bce934afbc2a3f25b0dffd91bb6939a957a16308dff2db205776ff8fe6c 683 Release.gpg
+ 0242503dc37313107bafc145e70821d47d94063fa2b4b65a2a38b33e01c9c54c 2300 InRelease
  17e106ffffef34a607a87e5a5ede03bbe3d5ac79874448847f0fb00287d1702e 1452 main/index.html
  2f46d3571948b647b4aae918687153e3f67d55cdfe5a0e832e39158846558627 1634 main/binary-amd64/index.html
- 6a2b1612e2af48e596f0ce8a0a83eb83d6b12e35cb9ed117ba5118ae222885f3 360 main/binary-amd64/Packages.gz
- e338e8162a0521d0dc87ff4b44a8d6c5344a7e8f23f5823e5c415bd2f217680d 473 main/binary-amd64/Packages
+ af85daff4de05eaf21111665291229e70abcdb820a0837fa77f0d5e4d44f3682 362 main/binary-amd64/Packages.gz
+ 6c9edfd9a8e4e7e567f6a48f2d731d75f29e18990b6e25df7f3ac30f9d943131 473 main/binary-amd64/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iQHEBAEBCgAuFiEEiglCMNpu+5DgI5QdJJf9IxU9CiEFAmX698cQHGFkbWluQHRp
-cml0by5kZQAKCRAkl/0jFT0KIc7uC/4n1pMHJvuhgtjIVcX/70iK5E5QRxZS46bT
-S28WvLaVtqTvzjg4QyWZKvbSN1Zku9T7cZq/r5eJIAUL2tARZDmrtFvNPxsahqB5
-C4f0VHZx5C+yAVekyc82ntSRH6M8m5MSZ9nSKR5MGGRsKjuml024FmCQk8oqqHvz
-ISKXeINf7P9VibnzW705UET4f7Q+cjJ+lo8SkQOph179ctevFEaBBn0NmmxbMdVy
-p+vCHNXhSs89EVd8XMqTJC5kRwbtM1DEpgULtB6JUa03vywVgmPmJgXxUfwYFsZq
-kOdjZwJI7Qa9coDQM7pqCsRNejZwFe0ow0oDYri40bzrdqd0nXeOMinO/mkiTvZK
-r+ltkrasXBqIYUwIGGEhNioSc3Geo87CdIVYRrLin0saOID20sY3OPkvhWEOwAVY
-4wPGIMROwXqzfg3Q+XHsFfSsOeCvLcbwitFPW7T3dXdPY4ReCbxB2nuEiSZvGXaV
-a0xOPgDkeZ1dcQ80F0rLiEZkOyt5jrg=
-=c43M
+iQHEBAEBCgAuFiEEiglCMNpu+5DgI5QdJJf9IxU9CiEFAmX6+PsQHGFkbWluQHRp
+cml0by5kZQAKCRAkl/0jFT0KIbYuC/9Z+EEglmXU317W8xS48rnOY5JzSCZbSPC/
+BaZrOCklaEI6usOjM9Ibq+/sG0XijxFl4y1Idp8v/oIPrEPAFjewh1XQ1/j7mOXD
+fBF6JgVFF/oNFuP1q62lnz+OeM56lieH4i5vVX3vatIDfKQmm5ByQYmb88Bv/yny
+8rvnivph1RCASIkGQ0kuTGqox0vWvkTK47Vw2/JvJ56rpIs36pU9iFfux0XsVwTm
+vnjy59SQd4lo4B0pMPgPfSBPDxYI2/o9Bq6caW4TbyvcVakpv7DCFmBTN1CpwUO3
++zfSTkmDNRWxYDy18+1nRvPMHTFbqYaf3XRqm5pgKkvK5ZFNQ7X6SRXWDwXkL2Hx
+ATgZokKbKsiCWDr+1Wp/naeuCR1FqPA9ZsVTEJ7Oj2BmMJb8OKjdMLX5bIR6vBN+
+XdWnrJhVf/FZbgTz/TO5QeZzNQvrWFCaMHWWEr/G7jodV7qsPYv+SIFJxjpY84O+
+IjwDCOApRLczroUiUYjbhwv78PO+Pw8=
+=u/mW
 -----END PGP SIGNATURE-----

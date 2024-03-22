@@ -1,13 +1,13 @@
 Package: xmanage
-Version: 0.0.2
+Version: 0.0.3
 Architecture: amd64
 Maintainer: Tirito6626 <admin@tirito.de>
 Depends: sudo, jq, gawk, coreutils, nano
-Filename: pool/main/xmanage_0.0.2-1_amd64.deb
-Size: 94128
-MD5sum: 091c598f92ba554dfcf78519122ef34e
-SHA1: e6b180e39467aa433ed0d8bcee3f91d24f67a64b
-SHA256: 21b9af1a5731845293a39a380f386aade1ed7abc76076717da88cad7887b5158
+Filename: pool/main/xmanage_0.0.3-1_amd64.deb
+Size: 112764
+MD5sum: 8741f1260e8112923bc4d275fea5306c
+SHA1: dbd0f54a8bf08cba1ebb73ee133f589e035468d8
+SHA256: dc3a2507e73dabf311147686808446c2e257a3c6939c0b73320d77bb6fcd9b6f
 Homepage: https://xmanage.tirito.de
 Description: Multi-functional lightweight server manager with minimal dependencies
 

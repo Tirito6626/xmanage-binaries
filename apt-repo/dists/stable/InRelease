@@ -5,46 +5,46 @@ Origin: xmanage.ftp.sh
 Label: XManage
 Suite: stable
 Codename: xmanage
-Version: 0.0.2
+Version: 
 Architectures: amd64
 Components: main
 Description: Multi-functional lightweight server manager with minimal dependencies
-Date: Sun, 24 Mar 2024 13:09:48 +0000
+Date: Sun, 24 Mar 2024 13:35:08 +0000
 MD5Sum:
- f621e2b91863a96e5d435a19b39eeb40 1884 index.html
- 5a278eee420d6da44620177083dbf240 683 Release.gpg
- 4f33fca711a23160a2f03c469044168b 2493 InRelease
- 4a4e9f495f26535f356112a1797343ef 1452 main/index.html
- d08e934bfce522eaccca9d8884884b1d 1634 main/binary-amd64/index.html
+ e297ac548b431e6a48cfae3bc71c6678 1899 index.html
+ 7982082a67c338d0c1cb2ba30c54596a 683 Release.gpg
+ c534c9df0735bd09ac057466eddbb19a 2493 InRelease
+ e65d45f3b7d941b7d53e7280a95df276 1458 main/index.html
+ 2e52eed3be79ad7b3d9b484a1dc41740 1643 main/binary-amd64/index.html
  c040fba12cd237d59083e0973e649495 358 main/binary-amd64/Packages.gz
  cfd8677985ac8fe2c4376cff5bf173e9 474 main/binary-amd64/Packages
 SHA1:
- c004adf03c50919d69816468d94198fdd5376cb2 1884 index.html
- 74652ca6a7f3d605db7ed443a0815c380d8edf25 683 Release.gpg
- 5eaca8f480a53c979aae547431e5bc38e3d22d71 2493 InRelease
- 5a93c6d51f4ac55b509dd7f8df168feab0536240 1452 main/index.html
- 6642b6f0dca8a1dfc54e01bea41236925acb0a06 1634 main/binary-amd64/index.html
+ 9b0367148b9890640a3d4a971a6d7e2754efd77a 1899 index.html
+ de0d42194119cce864600c9e787c2038ac2767dd 683 Release.gpg
+ 72441a64cf5ddf711e42e3c527eccdaf79b840dc 2493 InRelease
+ 99c640ca846d6f39968a7652bc28f4d319f99d57 1458 main/index.html
+ 0222ceb962ceffea7ad87d07420aac67cee62add 1643 main/binary-amd64/index.html
  8aec5f61a57993eaae367f910a80ffd072bc71ea 358 main/binary-amd64/Packages.gz
  b1f30cf238d0f5045a2a3213a2a5d6cfce8b6bdc 474 main/binary-amd64/Packages
 SHA256:
- b41ccab55b71da17f4f866b9d115d88b6b97e0bd9f5fb0bb73afda195c49f818 1884 index.html
- 93b94a6ce4c6737cd1084d98ee83996ea063d85374b41a170d7d0ce00bac56d6 683 Release.gpg
- f094e457d858c9dae7f6238ed9d8572d624945ce12b1a16743a3b7769276c38d 2493 InRelease
- 01db44e494ae429be93eb93acc419cfff5912e27a54ae73ecf05e9426241be69 1452 main/index.html
- a0af2b584c0a556182392710e61cb2719a361523fd7ef410cec4e869ee5215a5 1634 main/binary-amd64/index.html
+ d4f73df0b75d2635520c28e9d5705923eb5c7755851decd258232f1729cb5c3b 1899 index.html
+ c1d0933d2c353193af82fc47ab621a009e7aa103387faaf399f5a635d0b421bc 683 Release.gpg
+ 08d37a87ab8a2a44bf3fbd18e57ff874554cb52eeeb7ca2f807bf0e149b881a7 2493 InRelease
+ 77df84619e7fb041f2409705d93200c5c9956eaff142dc8768c8c35dd5237d4f 1458 main/index.html
+ a2e70d4d0d3e84854699063c0f4546df5dc7b64d51b8d35aaf5f95776d10ba4b 1643 main/binary-amd64/index.html
  41a2847e724f94f85c2f51db795f9a3c51aa361738542d95e248da592d0872b3 358 main/binary-amd64/Packages.gz
  f372e5f0be66b9757e67c42676175ea500c0251e3c036274a0170b97e8138b2a 474 main/binary-amd64/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iQHEBAEBCgAuFiEEiglCMNpu+5DgI5QdJJf9IxU9CiEFAmYAJiAQHGFkbWluQHRp
-cml0by5kZQAKCRAkl/0jFT0KIU2VC/9LHVvMfhT6xofM+xxZr8vKTAlSSwqs+4yH
-ZaVjN+t9gQAUdrCIzyAeMKHUpcplDhfduvt4e2mZ+ow4cqMiuAFYZZL6k0l/jWn8
-UFeNYDOC3Kb7VMe3t1gd1IrGXhLq9gIEatCvZ7/dCEl1YgDD3DL+9mirxTe2Ob3E
-v4CA+afjBMiTouwXj/fvxe0qq42y1vIv9L39QGhrlXDcM/bAkJpc7umVc2pb/gsU
-DFR5qfwRmBGHOHpx4np3kOGI/kiymg1ySXbIeTIRFfjh8PA+PtlO0D7ySSJPBcPv
-c/lilKLF/czz/2v4+sNfFpLLGjOhoiuERlwW+MydzjAacC2msqS2p7JxkRDr72uf
-6Iwx4h8Q47/Mnr/7l97wF0kpRYrJH7PyY43CNi316fe5lXKYctcfFy2HmiPDlJ67
-TSbh/z+SP7IMt6BkVZmxgMnWKE+ttIQcFQUrFfpqXT4XKPXIw6Pw9sKjer/HtamF
-j1KMfOiBvwsbN8VKCI6gfNW7UKBlCno=
-=GHaU
+iQHEBAEBCgAuFiEEiglCMNpu+5DgI5QdJJf9IxU9CiEFAmYALBEQHGFkbWluQHRp
+cml0by5kZQAKCRAkl/0jFT0KIYp8C/9/f3MJbnD+BxdksQ76dmXxGNtI6CxFEKNN
+Y5tRSR+/iWei3KqDG/g5j8aO2bx99ZGDbmZpiRr9EQbJvDLNQfyciYtEgnFQx481
+oKniNcfbKRDOxTK8Bqng6TkJOU+iJ9bHMQUYdIARXzMHXMZmwyIMsW5MrUhpGlNf
+SnTiERp8s6AcPGvla2qhsadXNLfOmmhraj0KtWbnIxYY78i6fx0VnTcgBVjOZPdL
+7BPH8Wg5/cXC94oROTAAyal7b4r7nPVeMf7GTWnZJ7JCIgWphmh0C2KyC00/23Ky
++6cdiaNgXXydIyE/zE/CsI3cpQQ4/3ArjlK4pAr70ViC1yj8D3k6P67Ismqu19Jw
+UPRUzXQFdoWhofhRroGKsUnEMZqglMUTkI3BHZ8X7+eg2/tbheqxWkkhgV05ujKY
+NfwMqBhRZiv/m7YehGTyo6EgCMoyBgKFPEJMINTKfNU+GbrphNvmHbKvDl9h+qCY
+JsjnvOwmxirAXsKckZ4i+2myHxKpEr0=
+=EB7k
 -----END PGP SIGNATURE-----

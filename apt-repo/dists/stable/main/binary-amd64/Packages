@@ -1,5 +1,5 @@
 Package: xmanage
-Version: 0.0.3
+Version: 0.0.4
 Architecture: amd64
 Maintainer: Tirito6626 <admin@tirito.de>
 Depends: sudo, jq, gawk, coreutils, nano

@@ -2,8 +2,8 @@ Package: xmanage
 Version: 0.0.4
 Architecture: amd64
 Maintainer: Tirito6626 <admin@tirito.de>
-Depends: sudo, jq, gawk, coreutils, nano
-Filename: pool/main/xmanage_0.0.3-1_amd64.deb
+Depends: sudo, jq, gawk, coreutils, nano, ncat
+Filename: pool/main/xmanage_0.0.4-1_amd64.deb
 Size: 112764
 MD5sum: 8741f1260e8112923bc4d275fea5306c
 SHA1: dbd0f54a8bf08cba1ebb73ee133f589e035468d8

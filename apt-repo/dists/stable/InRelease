@@ -9,42 +9,42 @@ Version: 0.0.2
 Architectures: amd64
 Components: main
 Description: Multi-functional lightweight server manager with minimal dependencies
-Date: Fri, 22 Mar 2024 19:10:47 +0000
+Date: Sun, 24 Mar 2024 13:09:48 +0000
 MD5Sum:
- f10356b50181ecaf8cca8d8d5ee1605a 1899 index.html
- dc39ea0ddb344b4163783b930505c903 683 Release.gpg
- 87a676c3d3be1868fdc0451c5cc940e7 2493 InRelease
- 1cf86c5185dd43cd625c1e1596805aca 1458 main/index.html
- f0e4bc0f6d4cf369ae8f448806edb1a5 1643 main/binary-amd64/index.html
+ f621e2b91863a96e5d435a19b39eeb40 1884 index.html
+ 5a278eee420d6da44620177083dbf240 683 Release.gpg
+ 4f33fca711a23160a2f03c469044168b 2493 InRelease
+ 4a4e9f495f26535f356112a1797343ef 1452 main/index.html
+ d08e934bfce522eaccca9d8884884b1d 1634 main/binary-amd64/index.html
  c040fba12cd237d59083e0973e649495 358 main/binary-amd64/Packages.gz
  cfd8677985ac8fe2c4376cff5bf173e9 474 main/binary-amd64/Packages
 SHA1:
- a7b9dd53b9dc2a8c6240db088167dd77f1ce358e 1899 index.html
- d947f9d6d02ef75a3e314cf7d62bfa65f9412f63 683 Release.gpg
- 3fc0c38d065566ca1dd0d3dde667e085d52ef7af 2493 InRelease
- 1ef75554f1e4a7eb70510878f1d82428451d3a67 1458 main/index.html
- 06487a2be9a3508c414e3f67143aeb960025f7fd 1643 main/binary-amd64/index.html
+ c004adf03c50919d69816468d94198fdd5376cb2 1884 index.html
+ 74652ca6a7f3d605db7ed443a0815c380d8edf25 683 Release.gpg
+ 5eaca8f480a53c979aae547431e5bc38e3d22d71 2493 InRelease
+ 5a93c6d51f4ac55b509dd7f8df168feab0536240 1452 main/index.html
+ 6642b6f0dca8a1dfc54e01bea41236925acb0a06 1634 main/binary-amd64/index.html
  8aec5f61a57993eaae367f910a80ffd072bc71ea 358 main/binary-amd64/Packages.gz
  b1f30cf238d0f5045a2a3213a2a5d6cfce8b6bdc 474 main/binary-amd64/Packages
 SHA256:
- 5c6c6a29607032c5445476931e64dfaf2c5a281c66592d96aaa6e367bdda05b4 1899 index.html
- 16498aee4613cfe8bf14105ffdc6588962fe8039fa0c561189d64a4d0ae906f0 683 Release.gpg
- 3d0e79f4fb3d5400834721612b3dd904a395e981eefd9a081d2a7d21a12804bc 2493 InRelease
- d4121035402f371b1272cc8398065fb85188ecd39db43dd03df6a3a9c5ceb8e0 1458 main/index.html
- 0ad4147957219e35128ed64185ca466ae8f69e9c96b41fc320e87a238a2a55b3 1643 main/binary-amd64/index.html
+ b41ccab55b71da17f4f866b9d115d88b6b97e0bd9f5fb0bb73afda195c49f818 1884 index.html
+ 93b94a6ce4c6737cd1084d98ee83996ea063d85374b41a170d7d0ce00bac56d6 683 Release.gpg
+ f094e457d858c9dae7f6238ed9d8572d624945ce12b1a16743a3b7769276c38d 2493 InRelease
+ 01db44e494ae429be93eb93acc419cfff5912e27a54ae73ecf05e9426241be69 1452 main/index.html
+ a0af2b584c0a556182392710e61cb2719a361523fd7ef410cec4e869ee5215a5 1634 main/binary-amd64/index.html
  41a2847e724f94f85c2f51db795f9a3c51aa361738542d95e248da592d0872b3 358 main/binary-amd64/Packages.gz
  f372e5f0be66b9757e67c42676175ea500c0251e3c036274a0170b97e8138b2a 474 main/binary-amd64/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iQHEBAEBCgAuFiEEiglCMNpu+5DgI5QdJJf9IxU9CiEFAmX917cQHGFkbWluQHRp
-cml0by5kZQAKCRAkl/0jFT0KIf3EDACb5JTmCo4vtB1n/t/WertSPAJCAGCOGN7k
-pO0exMa0teYMckXaQecpaR3TiTi+5pJUpCqiW4L/WP/W67FF1GDQGN6p7Xo2i+al
-MzKP2b/M+RZthvv802rnJJ8uUSCG8OG9aK8AkvsMF1vTVTCbzIAcENoWIpql9cat
-kotUxgIan/rKcZ+BzoVdOKAt0hHPLNZLZmRAI/FvfTc3FKuEQLrg0Hdn/RpiOCqq
-zZh+4mbfpiWapBnmm0e5JiJZY12BcyYHl75HGXJN4q+mfNgegzEP6FZvaEjo5ezV
-dg22/EH2sb3GDttai3bcjg8nzty3atjnJUeKVzGMrsJptojKgymENzk5c5vEV2CD
-LoTHmcdjFW3Al4YoJmnB6xTFoINdT1AxloBAXsObFO+0kfCz86qLJaeAsTfhRLJs
-3MIthSwiVchyxsAip5hOEYzKMpRf+3dQPevBxWpE60+YiPUOX5TExMSDD7oG0gqs
-rNxcGh5kBMp71fpYTreiJUc3ixpeEQE=
-=o+td
+iQHEBAEBCgAuFiEEiglCMNpu+5DgI5QdJJf9IxU9CiEFAmYAJiAQHGFkbWluQHRp
+cml0by5kZQAKCRAkl/0jFT0KIU2VC/9LHVvMfhT6xofM+xxZr8vKTAlSSwqs+4yH
+ZaVjN+t9gQAUdrCIzyAeMKHUpcplDhfduvt4e2mZ+ow4cqMiuAFYZZL6k0l/jWn8
+UFeNYDOC3Kb7VMe3t1gd1IrGXhLq9gIEatCvZ7/dCEl1YgDD3DL+9mirxTe2Ob3E
+v4CA+afjBMiTouwXj/fvxe0qq42y1vIv9L39QGhrlXDcM/bAkJpc7umVc2pb/gsU
+DFR5qfwRmBGHOHpx4np3kOGI/kiymg1ySXbIeTIRFfjh8PA+PtlO0D7ySSJPBcPv
+c/lilKLF/czz/2v4+sNfFpLLGjOhoiuERlwW+MydzjAacC2msqS2p7JxkRDr72uf
+6Iwx4h8Q47/Mnr/7l97wF0kpRYrJH7PyY43CNi316fe5lXKYctcfFy2HmiPDlJ67
+TSbh/z+SP7IMt6BkVZmxgMnWKE+ttIQcFQUrFfpqXT4XKPXIw6Pw9sKjer/HtamF
+j1KMfOiBvwsbN8VKCI6gfNW7UKBlCno=
+=GHaU
 -----END PGP SIGNATURE-----

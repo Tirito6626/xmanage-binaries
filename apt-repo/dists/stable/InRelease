@@ -5,46 +5,46 @@ Origin: xmanage.ftp.sh
 Label: XManage
 Suite: stable
 Codename: xmanage
-Version: 0.0.4
+Version: 0.0.5
 Architectures: amd64
 Components: main
 Description: Multi-functional lightweight server manager with minimal dependencies
-Date: Sun, 24 Mar 2024 13:44:47 +0000
+Date: Mon, 01 Apr 2024 16:55:49 +0000
 MD5Sum:
- 2784829f7bd340102b017335c334e3e9 1899 index.html
- 69d9ca26d38f06ee812011a091400dc0 683 Release.gpg
- d306ce9fc217549d069b9d5f9e917248 2493 InRelease
- 992eddc156aad21bc10237e87664c45d 1458 main/index.html
- 0960608b6ef3a0edb5744c376e4a66b7 1643 main/binary-amd64/index.html
- 716ca796a905e16c0a24c7a4561fe1bf 363 main/binary-amd64/Packages.gz
- 3465883a09eb0e3300fa5ccb32aafba7 480 main/binary-amd64/Packages
+ 167f725d9040d9fcd0f5277c9cb915cb 2493 InRelease
+ 4e05a2b64a3ed1ca89bcd432bfe48b01 1452 main/index.html
+ 1138dcdc9022629b8a36c4bfc83822e1 371 main/binary-amd64/Packages.gz
+ a225adb815602928d9abf009d2c46200 1634 main/binary-amd64/index.html
+ 4f17405f446c086a25ff5e867234abce 495 main/binary-amd64/Packages
+ 1ec713a94c4a964875a973335100839c 1884 index.html
+ d41d8cd98f00b204e9800998ecf8427e 0 Release.gpg
 SHA1:
- af3d0a00ac892ae6994c21db5b387f717f64edb0 1899 index.html
- a088f59c3523c3ec7db701d9492f204f60028bf1 683 Release.gpg
- a5e0bbb708d97b4a9f71f67c49cf9cc7d08a959a 2493 InRelease
- 0a0f2a42c1eec47b9720d9156511d0fd73d91e9e 1458 main/index.html
- 4d5fca6ffdcfcd2b0bd0e16ee65150597e7285fd 1643 main/binary-amd64/index.html
- ec0218c9299e819881abf99dc29fc17f160f4b74 363 main/binary-amd64/Packages.gz
- ae427f49d86c1d8ecca0b9c4b46d14bedb9efd69 480 main/binary-amd64/Packages
+ d27f013c1acccddcf473e588d0d5a649fdf93b33 2493 InRelease
+ 4602ebb66d56d6d4138b38a178835c628bd9fcfc 1452 main/index.html
+ 9f163399ef4ec1e8bc2e9fb63a04b75eaaa2f540 371 main/binary-amd64/Packages.gz
+ 475256ae2ad7da8c22770a176437ac40eebebd28 1634 main/binary-amd64/index.html
+ cee0f33ae7386f25e5cb08f2088188ad5ac8ea86 495 main/binary-amd64/Packages
+ b8d6f5b185f75ae88b9fdb18b1466f64aab6a4c7 1884 index.html
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 Release.gpg
 SHA256:
- 017f2ea0894268d0d256b24ca8d5907b29a032e985b12ae2089641070fc9035a 1899 index.html
- 41f001c261b9cf4180237b1170ad68e06d257ad78a975f12f957d4fc7f70a5d1 683 Release.gpg
- 4e949e3220ed61d6c3b5ca3ffc0ac0685b77afeb9cff9dbb627b770936836822 2493 InRelease
- a09c19147ed0a5379269d312074fd063fb1401602c378458b997f748eaf65314 1458 main/index.html
- 118d796ab65e366a2d5ee061fdbcfabe06cad0ad4d97a5498197b7dd9666e53d 1643 main/binary-amd64/index.html
- 09aec2040a6ca8819e223745512719cc585912b9c924d0e6c60e0fc21c44e1e4 363 main/binary-amd64/Packages.gz
- 1e91d905a533b894b3bd3046914bcb5dc8ae8978a4ab22fba2f26b08820ca6cf 480 main/binary-amd64/Packages
+ 15945616235e65c2aa792c6d0881e6aa698b9b41f7a94156e95fb3ebbd49746f 2493 InRelease
+ 371f8b5244b7a71c490cc0d9eb345d26b0a8c583d0a1805c06ee20d15bf354b7 1452 main/index.html
+ c9653ce2df4c48a4271ee3d589cf9c3eb37ee4901c2f64be689b8086d8f62ed1 371 main/binary-amd64/Packages.gz
+ 6e2a56dafc755450b9acae717d93c8b270e02a28b862175b02617bf413c3da58 1634 main/binary-amd64/index.html
+ ae2b8e3f4810090658b8e5eac7da179caee163764b328a72a54f44571fce9c2c 495 main/binary-amd64/Packages
+ 4557d0b5526a542ab9ff69abd992d47921a260625dc9d80aa9684c0f12016893 1884 index.html
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 Release.gpg
 -----BEGIN PGP SIGNATURE-----
 
-iQHEBAEBCgAuFiEEiglCMNpu+5DgI5QdJJf9IxU9CiEFAmYALlAQHGFkbWluQHRp
-cml0by5kZQAKCRAkl/0jFT0KISviDACdgTYDhqAcfTb1IXnK1WR4OGiOibzXJOFP
-JYO7TmWOe8yRYDq6ugGjc1HeliPJLA/HAZxF9hsb9ylqdWR37BIMRDNbHDsyT6N+
-dWh6X4f4p3n1ZmryjeKbsCdXmlHavb7flWVYL4k+E5pFE3wzoETCwFS02o7Das9d
-goLeie4iEhyPxo2EHcDHaY/PUnWxvBohHpNqWEPmuvjiUBwPlYlZvKS80UisFMRx
-rJCAe1QsaxtPSn3d47oRAMVKURrKWiaQqcIpnuMUtcc/sBo/ymlngNVil/7nB4zr
-oT9+MyId867QVtMXKD4p6QCahpsDI/IrQsOjbLPUVF4rMACJGciZLRhOt0wU1IPR
-eXv5yaa83iT3Ns4FSPo1wRrTCpnt8HN/op3ZlZRHi4m9QtFZ8Cm8Rn4CKpqZUIjI
-wk0xrwI7kmtTbriHOQ3g5D5GBQ4PZkOryDac4WuQK/7+m9bjoKSthrJcHrb4waC4
-VDCZaUO4Kc4gKPaC+Gi+M9prfob0QD0=
-=7yiL
+iQHEBAEBCgAuFiEEl8K4eVzXwWjUyIkywvZdbfbMresFAmYK5xsQHGFkbWluQHRp
+cml0by5kZQAKCRDC9l1t9syt69a8C/43hlNBuoZ6FahfEO1CZLN5KPon1LQL077t
+tPegtc0QiizfhDW/knD3yVouV+AocZwvm7WGig45IRu7SI7fN8o2kP6OuNNwwv/7
+ov5bf4u5p8hEwBrBy9nE9RArjp8qu8Egcm1HgH/fF33hyL9HKHt7JD1mr3tY6mst
+zYCWgUWxOsqfuYJu1mqsSF/OuhbL8VuW2xTDK5EekZhtUlVOytsL67hAZ4OMJzLv
+LuRZi02PX3Rm2RL0EljQYi4KkQDlsCSYTE5Qw3BBrN9ASyxlGrwlqaNrBa08VfnR
+kY8jLmTI9CTU4fTSU+D8Vr9Lu53G3Za/BPYPAIpiYNKEPUJpIFtBHuge2lYRyVKU
+p5rzSn0F7y0KPeCT7ptBl4Z6Y2anH9iuAm1xV0U0lQqmOekrlsrx/da5wOZ5180C
+U78j+A3LIMXR6C1e99n7No/zP+wYlgsGijByCxcq07cEcDasWENaUHJ07esba81I
+Wzu300GmjvTCpn4nI8103jMhdhcuR9c=
+=CABP
 -----END PGP SIGNATURE-----

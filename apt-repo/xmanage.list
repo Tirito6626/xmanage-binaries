@@ -1,2 +1,2 @@
-deb [arch=amd64] https://xmanage.ftp.sh/apt-repo stable main
+deb [trusted=yes] https://xmanage.ftp.sh/apt-repo stable main
 

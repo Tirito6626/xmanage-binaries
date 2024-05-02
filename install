@@ -1,0 +1,26 @@
+#!/bin/bash
+nonapt() {
+echo "[Info] apt is not found, using alternative"
+echo "[Info] Installing binary"
+lastver=$(curl https://xmanage.ftp.sh/binaries/ | grep -o 'xmanage-v[0-9].[0-9].[0-9]' | sort -V | tail -n 1
+echo "[Info] Using binary: ${lastver}" 
+wget https://xmanage.ftp.sh/binaries/${lastver} -o /usr/bin/xmanage
+echo "[Info] Setting permissions"
+chmod +x /usr/bin/xmanage
+/usr/bin/xmanage -v
+echo "[Info] Done"
+}
+aptmethod() {
+echo "[Info] Installing using apt"
+echo "[Info] Adding repository list"
+curl https://xmanage.ftp.sh/apt-repo/xmanage.list -o /etc/apt/sources.list.d/xmanage.list
+echo "[Info] Adding key"
+wget -qO - https://xmanage.ftp.sh/apt-repo/xmanage.key | sudo apt-key add -
+echo "Updating sources and installing xmanage"
+apt-get update && apt-get install xmanage
+echo "[Info] Done"
+}
+apt -v && aptmethod || nonapt
+echo "-----------------------"
+echo "Thanks for installing xmanage!"
+echo "Script made by: Tirito6626"

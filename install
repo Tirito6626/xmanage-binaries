@@ -2,7 +2,7 @@
 nonapt() {
 echo "[Info] apt is not found, using alternative"
 echo "[Info] Installing binary"
-lastver=$(curl https://xmanage.ftp.sh/binaries/ | grep -o 'xmanage-v[0-9].[0-9].[0-9]' | sort -V | tail -n 1
+lastver=$(curl https://xmanage.ftp.sh/binaries/ | grep -o 'xmanage-v[0-9].[0-9].[0-9]' | sort -V | tail -n 1)
 echo "[Info] Using binary: ${lastver}" 
 wget https://xmanage.ftp.sh/binaries/${lastver} -o /usr/bin/xmanage
 echo "[Info] Setting permissions"

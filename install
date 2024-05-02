@@ -22,5 +22,5 @@ echo "[Info] Done"
 }
 apt -v && aptmethod || nonapt
 echo "-----------------------"
-echo "Thanks for installing xmanage!"
+echo "Thanks for installing XManage!"
 echo "Script made by: Tirito6626"
